@@ -27,7 +27,7 @@ embed_reveal:
 docusaurus:
   plugin: docusaurus
   options:
-    course_name: Cybersecurity Incidents Management2
+    course_name: Cybersecurity Incidents Management
     sidebar: js
     structure:
       - Introduction:
@@ -45,8 +45,8 @@ docusaurus:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
       title: Template Repo
-      url: http://localhost/
-      baseUrl: /oer-template/
+      url: http://zamfiroiu.github.io/UPB-CIM/
+      baseUrl: /UPB-CIM/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
