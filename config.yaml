@@ -45,7 +45,7 @@ docusaurus:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
       title: Template Repo
-      url: http://zamfiroiu.github.io/UPB-CIM/
+      url: http://zamfiroiu.github.io/
       baseUrl: /UPB-CIM/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
