@@ -27,7 +27,7 @@ embed_reveal:
 docusaurus:
   plugin: docusaurus
   options:
-    course_name: Cybersecurity Incidents Management
+    course_name: Cybersecurity Incidents Management2
     sidebar: js
     structure:
       - Introduction:
